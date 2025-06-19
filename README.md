@@ -10,6 +10,12 @@
 
 ---
 
+## 👋 About Me
+
+I'm an undergraduate B.Tech student at IIITDM Jabalpur with an insatiable curiosity and a drive to continuously learn and evolve. I thrive on challenges, seeing them not as obstacles but as stepping stones to growth. Each hurdle has shaped my mindset—teaching me not just how to try, but how to win. With every experience, I strive for excellence and aim to turn ambition into impact.
+
+---
+
 <h3 align="center"><em>🚀 Full-Stack Dev | 💻 Code Artist | ⚡ Tech Explorer</em></h3>
 
 ---
