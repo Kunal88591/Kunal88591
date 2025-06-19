@@ -72,7 +72,7 @@ const kunal = {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ---
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kunal88591&show_icons=true&theme=radical" alt="Kunal's GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal88591&theme=radical" alt="Kunal's Streak Stats" width="48%"> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal88591&layout=compact&theme=radical" alt="Top Languages" width="40%"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kunal88591&show_icons=true&theme=radical" alt="Kunal's GitHub Stats" width="48%"> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal88591&layout=compact&theme=radical" alt="Top Languages" width="40%"> </p>
 
 ---
 
