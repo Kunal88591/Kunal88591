@@ -24,7 +24,7 @@
 | Logo | Link/Email | Action |
 |------|------------|--------|
 | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | [linkedin.com/in/kunal8859](https://linkedin.com/in/kunal8859) | Connect with me on LinkedIn |
-| ![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) | kunalme130@gmail.com | Send me an email |
+| ![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [kunalme130@gmail.com](mailto:kunalme130@gmail.com) | Send me an email |
 | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | [github.com/Kunal88591](https://github.com/Kunal88591) | Explore my GitHub |
 
 </div>
@@ -37,10 +37,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9zYXRrZ2R0a2FwNHJwMXF2bWw2dGtyeGp3eWYzaXIxYXRva2t1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding" width="200">
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9zYXRrZ2R0a2FwNHJwMXF2bWw2dGtyeGp3eWYzaXIxYXRva2t1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding" width="200">
   <br>
@@ -51,4 +47,3 @@
   </pre>
   <p>Let's collaborate and create something awesome!</p>
 </div>
-
