@@ -5,7 +5,9 @@
 </p>
 
 <h2 align="center"><em>"404? That's just my creativity warming up."</em> 🔥</h2>
+
 ---
+
 <div align="center">
   
 [![Visitors](https://komarev.com/ghpvc/?username=Kunal88591&label=PROFILE+VIEWS&color=0e75b6&style=flat)](https://github.com/Kunal88591)
@@ -71,7 +73,7 @@ const kunal = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ---
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kunal88591&show_icons=true&theme=radical" alt="Kunal's GitHub Stats" width="48%"> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal88591&layout=compact&theme=radical" alt="Top Languages" width="40%"> </p>
 
 ---
