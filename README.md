@@ -4,14 +4,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxY3I4bmV2ZzV6b2V2cGZlN3JmeXJwZ2V2cWp0bGJhYjJ4eXgxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Yj2jQqj0pQwE/giphy.gif" alt="Welcome" width="400">
 </p>
 
-
 <p align="center">
   <b><i>"404? That's just my creativity warming up."</i></b>
 </p>
+
 ---
 
 <h3 align="center"><em>🚀 Full-Stack Dev | 💻 Code Artist | ⚡ Tech Explorer</em></h3>
-
 
 ---
 
@@ -44,13 +43,11 @@
 
 💫 *"Every line of code is a step toward something great. Let’s build bold and meaningful experiences together!"*
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9zYXRrZ2R0a2FwNHJwMXF2bWw2dGtyeGp3eWYzaXIxYXRva2t1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding" width="220">
-  
-  ```bash
-  $ git clone https://github.com/Kunal88591
-  $ cd Kunal88591
-  $ ./connect_with_me.sh
+</p>
 
-
-
+```bash
+$ git clone https://github.com/Kunal88591
+$ cd Kunal88591
+$ ./connect_with_me.sh
