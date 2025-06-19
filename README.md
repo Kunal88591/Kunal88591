@@ -6,18 +6,6 @@
 
 ---
 
-## 🛠️ My Skills – Visual Showcase
-
-<div align="center">
-
-### 🌈 Skill Icons Grid
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,react,spring,django,nodejs,mongodb,mysql,git,docker,vscode,idea)](https://skillicons.dev)
-
-</div>
-
----
-
 ## 🧩 Skill Areas
 
 | Skill Area           | Logos/Icons & Details                                                                 |
@@ -64,18 +52,11 @@
 
 ---
 
-## 🎨 Extra Creative Touch
+
 
 <div align="center">
-  <pre>
-   _______________
-  |  ___________  |
-  | |           | |
-  | |  0     0  | |
-  | |     ∆     | |
-  | |   \___/   | |
-  | |___________| |
-  |_______________|
-  </pre>
-  <p>Thanks for visiting! 🚀</p>
+
+**© 2025 Kunal Meena. All rights reserved.**  
+
+
 </div>
