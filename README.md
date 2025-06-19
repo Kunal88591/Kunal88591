@@ -42,3 +42,10 @@
   $ git clone https://github.com/Kunal88591
   $ cd Kunal88591
   $ ./connect_with_me.sh
+
+<div align="center" style="margin-top: 30px;">
+  <strong>Let's collaborate and create something awesome! 💡</strong>
+  <br><br>
+  <small>© 2025 Kunal Meena. All rights reserved. 🔒</small>
+</div>
+
