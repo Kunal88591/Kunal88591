@@ -74,8 +74,12 @@ const kunal = {
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kunal88591&show_icons=true&theme=radical" alt="Kunal's GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal88591&theme=radical" alt="Kunal's Streak Stats" width="48%"> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal88591&layout=compact&theme=radical" alt="Top Languages" width="40%"> </p>
 
+---
+
 🌐 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/kunal8859"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:kunalmeena1311@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://github.com/Kunal88591"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://twitter.com/yourusername"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> </p>
+
+---
 
 💡 Quote of the Day
 "The only way to do great work is to love what you do." - Steve Jobs
@@ -89,4 +93,4 @@ $ cd Kunal88591
 $ ./connect_with_me.sh
 ```
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5bWJ0aXJ2bW1iZ2R1b2JxZ3Z0bWJpZ2V0c3VwZ2VjZ3R2dG5xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif" alt="Thank You" width="200"> </p> ```
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5bWJ0aXJ2bW1iZ2R1b2JxZ3Z0bWJpZ2V0c3VwZ2VjZ3R2dG5xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif" alt="Thank You" width="200"> </p> 
