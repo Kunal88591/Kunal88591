@@ -81,8 +81,6 @@ public class KunalProfile {
 ## 📊 GitHub Stats
 
 
-## 🚀 My GitHub Highlights
-
 <p align="center">
   <a href="https://github.com/Kunal88591">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal88591&theme=tokyonight" alt="Kunal's GitHub DevCard">
