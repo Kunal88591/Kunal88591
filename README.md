@@ -79,7 +79,7 @@ public class KunalProfile {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ---
 ## 📊 GitHub Stats
-<p align="center"> ### 👨‍💻 My Developer Card
+
 
 ## 🚀 My GitHub Highlights
 
