@@ -79,7 +79,15 @@ public class KunalProfile {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ---
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kunal88591&show_icons=true&theme=radical" alt="Kunal's GitHub Stats" width="48%"> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal88591&layout=compact&theme=radical" alt="Top Languages" width="40%"> </p>
+<p align="center"> ### 👨‍💻 My Developer Card
+
+[![My GitHub DevCard]
+<p align="center">
+  <a href="https://github.com/ayushsinghal294">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal88591&theme=tokyonight" alt="GitHub DevCard" width="48%">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunal88591&show_icons=true&theme=radical" alt="Kunal's GitHub Stats" width="48%">
+</p>
 
 ---
 
