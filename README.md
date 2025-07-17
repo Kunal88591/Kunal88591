@@ -26,21 +26,26 @@
 
 I'm an undergraduate B.Tech student at **IIITDM Jabalpur** with an insatiable curiosity and a drive to continuously learn and evolve. I thrive on challenges, seeing them not as obstacles but as stepping stones to growth. Each hurdle has shaped my mindset—teaching me not just how to try, but how to win. With every experience, I strive for excellence and aim to turn ambition into impact.
 
-```javascript
-const kunal = {
-  pronouns: "He" | "Him",
-  code: ["Java", "JavaScript", "Python", "C++"],
-  askMeAbout: ["Web dev", "Tech", "Photography", "Music"],
-  technologies: {
-    frontEnd: ["React", "HTML/CSS", "Bootstrap"],
-    backEnd: ["Spring", "Django", "Node.js"],
-    databases: ["MongoDB", "MySQL"],
-    devOps: ["Docker", "Git", "CI/CD"],
-    misc: ["Firebase", "OpenCV"]
-  },
-  currentFocus: "Building scalable web applications",
-  funFact: "I can solve a Rubik's cube in under 2 minutes"
-};
+```java
+public class KunalProfile {
+    public static void main(String[] args) {
+        DeveloperProfile kunal = DeveloperProfile.builder()
+            .name("Kunal")
+            .pronouns("He/Him")
+            .codeSkills("Java", "JavaScript", "Python", "C++")
+            .askMeAbout("Web dev", "Tech", "Photography", "Music")
+            .frontEnd("React", "HTML/CSS", "Bootstrap")
+            .backEnd("Spring", "Django", "Node.js")
+            .databases("MongoDB", "MySQL")
+            .devOps("Docker", "Git", "CI/CD")
+            .misc("Firebase", "OpenCV")
+            .currentFocus("Building scalable web applications")
+            .build();
+
+        kunal.show();
+    }
+}
+
 ```
 
 ## 🛠️ **Tech Stack**
