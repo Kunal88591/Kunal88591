@@ -20,17 +20,24 @@
 
 ---
 
-## 👋 Hi, I'm **Kunal**!  
-*Undergraduate @ IIITDM Jabalpur | Full-Stack Developer | Tech Explorer | Creative Coder*
+## 👋 Hi, I'm <span style="color:#2EC4B6;font-weight:bold;">Kunal</span>!  
+*Undergraduate @ IIITDM Jabalpur | Full-Stack Developer | Tech Explorer | Creative Coder | Problem Solver*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=460&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner;Coding+Dreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=460&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner;Coding+Dreamer;Community+Builder" alt="Typing SVG" />
 </p>
 
 ### 🧑🏻‍💻 **About Me**
 
-> I’m driven by curiosity and a hunger for learning. I don’t shy from tough problems—in fact, I thrive when the challenge is tough and the finish line is far. My mantra? _“Every error is a lesson dressed for impact.”_  
-> New technologies intrigue me, teamwork inspires me, and building meaningful products motivates me.
+> **Curiosity is my compass. Adventure is my code.**
+>
+> I love building ideas into reality and transforming *errors* into *impact*. Whether it's solving hackathon puzzles, pushing boundaries in open source, or collaborating with creative minds, I believe every roadblock is just a stepping stone in disguise.
+>
+> **Motivation?**  
+> _“Every error is a lesson dressed for impact.”_  
+> - Collaboration fuels innovation.
+> - New technologies spark creativity.
+> - Building meaningful products drives me.
 
 ```java
 public class KunalProfile {
@@ -56,8 +63,7 @@ public class KunalProfile {
 
 ---
 
-## ⚡ **Tech Stack**
-
+## ⚡️ **My Superpowers: Tech Stack**
 
 <details>
   <summary>💻 <strong>Languages</strong></summary>
@@ -69,7 +75,7 @@ public class KunalProfile {
 
 </details>
 <details>
-  <summary>🎨 <strong>Frontend</strong></summary>
+  <summary>🎨 <strong>Frontend Magic</strong></summary>
   
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,7 +85,7 @@ public class KunalProfile {
 
 </details>
 <details>
-  <summary>🛠 <strong>Backend</strong></summary>
+  <summary>🛠 <strong>Backend Power</strong></summary>
   
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -94,7 +100,7 @@ public class KunalProfile {
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 </details>
 <details>
-  <summary>🚀 <strong>Tools & DevOps</strong></summary>
+  <summary>🚀 <strong>Tools & DevOps Arsenal</strong></summary>
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -121,16 +127,18 @@ public class KunalProfile {
   <details>
     <summary>✨ <strong>Open Source Highlights</strong></summary>
     <ul>
-      <li>🔧 Contributed to multiple full-stack and backend open source projects</li>
-      <li>👨‍🏫 Guided juniors and hackathon teams</li>
-      <li>🏅 Participated in hackathons and won several prizes</li>
+      <li>🔧 Contributed to full-stack and backend open source projects</li>
+      <li>👨‍🏫 Mentored juniors & hackathon teams</li>
+      <li>🏅 Hackathon winner & active community builder</li>
+      <li>🤝 Networking & collaborating worldwide</li>
     </ul>
   </details>
 </p>
 
 ---
 
-## 🌐 **Let's Connect!**
+## 🌐 **Let's Connect & Collaborate!**
+
 <p align="center">
   <a href="https://linkedin.com/in/kunal8859">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -177,7 +185,11 @@ cd Kunal88591
 ---
 
 <p align="center">
-  <b>Thanks for stopping by, keep exploring and keep coding! 🚀</b>
+  <b>✨ Thanks for stopping by, keep exploring and keep coding! 🚀✨</b>
 </p>
 
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7B32C&width=480&lines=Welcome+to+my+cosmos+of+code!;Open+Source+is+magic.;Let%27s+build+the+future+together." />
+</p>
