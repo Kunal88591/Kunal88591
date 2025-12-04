@@ -116,9 +116,7 @@ public class KunalProfile {
 <p align="center">
     <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Kunal88591&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Kunal's GitHub Streak">
 </p>
-<p align="center">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal88591&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
-</p>
+
 <p align="center">
   <details>
     <summary>✨ <strong>Open Source Highlights</strong></summary>
@@ -181,4 +179,5 @@ cd Kunal88591
 <p align="center">
   <b>Thanks for stopping by, keep exploring and keep coding! 🚀</b>
 </p>
+
 
