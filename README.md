@@ -120,10 +120,6 @@ public class KunalProfile {
 </p>
 
 <p align="center">
-    <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Kunal88591&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Kunal's GitHub Streak">
-</p>
-
-<p align="center">
   <details>
     <summary>✨ <strong>Open Source Highlights</strong></summary>
     <ul>
@@ -193,3 +189,4 @@ cd Kunal88591
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7B32C&width=480&lines=Welcome+to+my+cosmos+of+code!;Open+Source+is+magic.;Let%27s+build+the+future+together." />
 </p>
+
