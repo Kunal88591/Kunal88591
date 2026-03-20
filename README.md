@@ -1,191 +1,323 @@
-# 🚀 Welcome to **Kunal's Tech Universe!** 🌌
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxY3I4bmV2ZzV6b2V2cGZlN3JmeXJwZ2V2cWp0bGJhYjJ4eXgxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Yj2jQqj0pQwE/giphy.gif" alt="Welcome" width="480">
-</p>
-
-<h2 align="center"><code>"404? That's just my creativity warming up."</code> 🔥</h2>
-
----
+<!-- ██████████████████████████████████████████████████ -->
+<!--          KUNAL MEENA — GITHUB PROFILE README        -->
+<!--       The most insane README you've ever seen 🔥     -->
+<!-- ██████████████████████████████████████████████████ -->
 
 <div align="center">
 
-[![Visitors](https://komarev.com/ghpvc/?username=Kunal88591&label=PROFILE+VIEWS&color=0e75b6&style=flat)](https://github.com/Kunal88591)
-[![GitHub followers](https://img.shields.io/github/followers/Kunal88591?logo=github&style=social)](https://github.com/Kunal88591)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kunal88591)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/kunal8859)
-[![Gmail Badge](https://img.shields.io/badge/-kunalmeena1311@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunalmeena1311@gmail.com)](mailto:kunalmeena1311@gmail.com)
+<!-- 🌊 TOP WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b10,40:00ffd5,70:9b5de5,100:ff2d78&height=220&section=header&text=KUNAL%20MEENA&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Developer%20·%20AI%20Engineer%20·%20Author&descSize=20&descAlignY=62&animation=fadeIn&fontFamily=Trebuchet+MS" width="100%"/>
+
+</div>
+
+<!-- 🌀 ANIMATED TYPING -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=00FFD5&center=true&vCenter=true&width=750&height=60&lines=🚀+Full-Stack+Developer+%2F%2F+AI+Engineer;🧠+Building+Intelligence%2C+One+Model+at+a+Time;📖+Published+Author+—+%22The+Ideal+Man%22;⚡+NPTEL+Gold+%7C+Top+1%25+%7C+IIT+Kharagpur;🔥+Build.+Break.+Learn.+Repeat.)](https://github.com/Kunal88591)
+
+</div>
+
+<br>
+
+<!-- 👁️ VISITOR + STATUS BADGES -->
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=Kunal88591&label=👁%20VISITORS&color=00ffd5&style=for-the-badge&labelColor=020b10)
+[![GitHub followers](https://img.shields.io/github/followers/Kunal88591?label=⚡%20Followers&style=for-the-badge&color=9b5de5&labelColor=020b10)](https://github.com/Kunal88591)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Lover-ff2d78?style=for-the-badge&labelColor=020b10)
+![Status](https://img.shields.io/badge/Status-Available%20🟢-00ffd5?style=for-the-badge&labelColor=020b10)
 
 </div>
 
 ---
 
-## 👋 Hi, I'm <span style="color:#2EC4B6;font-weight:bold;">Kunal</span>!  
-*Undergraduate @ IIITDM Jabalpur | Full-Stack Developer | Tech Explorer | Creative Coder | Problem Solver*
+<!-- 🎬 INTRO GIF + ABOUT SIDE BY SIDE -->
+<table align="center" border="0">
+<tr>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=460&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner;Coding+Dreamer;Community+Builder" alt="Typing SVG" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" style="border-radius:12px"/>
 
-### 🧑🏻‍💻 **About Me**
+</td>
+<td width="50%" valign="middle">
 
-> **Curiosity is my compass. Adventure is my code.**
->
-> I love building ideas into reality and transforming *errors* into *impact*. Whether it's solving hackathon puzzles, pushing boundaries in open source, or collaborating with creative minds, I believe every roadblock is just a stepping stone in disguise.
->
-> **Motivation?**  
-> _“Every error is a lesson dressed for impact.”_  
-> - Collaboration fuels innovation.
-> - New technologies spark creativity.
-> - Building meaningful products drives me.
+## `whoami`
 
-```java
-public class KunalProfile {
-    public static void main(String[] args) {
-        DeveloperProfile kunal = DeveloperProfile.builder()
-            .name("Kunal Meena")
-            .pronouns("He/Him")
-            .languages("Java", "JavaScript", "Python", "C++")
-            .topics("Web Dev", "Tech Blogs", "Photography", "Music", "AI-ML")
-            .frontend("React", "HTML/CSS", "Bootstrap", "Tailwind")
-            .backend("Spring", "Django", "Node.js", "Express")
-            .databases("MongoDB", "MySQL", "Firebase")
-            .devops("Docker", "Git", "CI/CD", "Vercel")
-            .playground("OpenCV", "Socket.io", "Firebase")
-            .currentProject("Scalable Modern Web Apps")
-            .motto("Build. Break. Learn. Repeat.")
-            .build();
-
-        kunal.showJourney();
-    }
-}
+```yaml
+Name    : Kunal Meena
+Role    : Full-Stack Dev + AI Engineer
+College : IIITDM Jabalpur (B.Tech CSE)
+Status  : 🟢 Open to Opportunities
+Author  : "The Ideal Man" 📖
+NPTEL   : Gold + Elite · Top 1% · IIT KGP
+DSA     : 300+ Problems Solved 💻
+Motto   : Build. Break. Learn. Repeat.
 ```
 
----
+> 💡 *"Curiosity is my compass.*  
+> *Every error is a lesson dressed for impact."*
 
-## ⚡️ **My Superpowers: Tech Stack**
-
-<details>
-  <summary>💻 <strong>Languages</strong></summary>
-  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</details>
-<details>
-  <summary>🎨 <strong>Frontend Magic</strong></summary>
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</details>
-<details>
-  <summary>🛠 <strong>Backend Power</strong></summary>
-  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
-</details>
-<details>
-  <summary>☁️ <strong>Database & Cloud</strong></summary>
-  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-</details>
-<details>
-  <summary>🚀 <strong>Tools & DevOps Arsenal</strong></summary>
-  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 **GitHub Stats & Activity**
+<!-- 🐍 SNAKE ANIMATION -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Kunal88591">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal88591&theme=tokyonight" alt="Kunal's GH Summary Card" width="530">
-  </a>
-</p>
+### 🐍 Watch the Snake Eat My Contributions!
 
-<p align="center">
-  <details>
-    <summary>✨ <strong>Open Source Highlights</strong></summary>
-    <ul>
-      <li>🔧 Contributed to full-stack and backend open source projects</li>
-      <li>👨‍🏫 Mentored juniors & hackathon teams</li>
-      <li>🏅 Hackathon winner & active community builder</li>
-      <li>🤝 Networking & collaborating worldwide</li>
-    </ul>
-  </details>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal88591/Kunal88591/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunal88591/Kunal88591/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kunal88591/Kunal88591/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+> **To generate:** Add a GitHub Action workflow → `generate-snake.yml` → uses `Platane/snk`
+
+</div>
 
 ---
 
-## 🌐 **Let's Connect & Collaborate!**
+<!-- ⚡ TECH STACK WITH SKILL ICONS -->
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/kunal8859">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:kunalmeena1311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/Kunal88591">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://kunal88591.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+## ⚡ Tech Arsenal
 
----
+### 🗣️ Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark&perline=6" />
 
-## 💡 **Quote of the Day**
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark&perline=5" />
 
-> *"The only way to do great work is to love what you do."*  
-> — Steve Jobs
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,flask&theme=dark&perline=5" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9zYXRrZ2R0a2FwNHJwMXF2bWw2dGtyeGp3eWYzaXIxYXRva2t1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding" width="300">
-</p>
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
+
+### 🗄️ Databases & DevOps
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,docker,git,github,postman,vercel&theme=dark&perline=9" />
+
+</div>
 
 ---
 
-## 🤝 **Want to collaborate or just say hi?**
+<!-- 📊 GITHUB STATS -->
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kunal88591&show_icons=true&theme=tokyonight&bg_color=020b10&title_color=00ffd5&icon_color=9b5de5&text_color=eaf4ff&border_color=00ffd530&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal88591&layout=compact&theme=tokyonight&bg_color=020b10&title_color=00ffd5&text_color=eaf4ff&border_color=00ffd530&langs_count=8&hide_border=false" />
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal88591&theme=tokyonight&background=020b10&ring=00ffd5&fire=ff2d78&currStreakLabel=9b5de5&sideLabels=eaf4ff&currStreakNum=ffffff&sideNums=ffffff&dates=4a7a9b&border=00ffd530" />
+
+</div>
+
+---
+
+<!-- 🏆 TROPHIES -->
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kunal88591&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
+
+</div>
+
+---
+
+<!-- 📈 ACTIVITY GRAPH -->
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal88591&bg_color=020b10&color=00ffd5&line=9b5de5&point=ff2d78&area=true&area_color=00ffd515&hide_border=true&custom_title=Kunal's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+<!-- 🏅 ACHIEVEMENTS SECTION -->
+<div align="center">
+
+## 🏅 Achievements & Recognition
+
+</div>
+
+<table align="center" border="0" width="100%">
+<tr>
+<td align="center" width="25%">
+
+### 🥇
+**NPTEL Gold + Elite**  
+IIT Kharagpur · Java  
+`94% · Top 1%`  
+*16,000+ participants*
+
+</td>
+<td align="center" width="25%">
+
+### 🥉
+**2nd Runner-Up**  
+Pearl 2025 · BITS Hyderabad  
+`National Level`  
+*Street Play · Jazbaat*
+
+</td>
+<td align="center" width="25%">
+
+### 💻
+**300+ Problems**  
+Competitive Programming  
+`CodeRumble 2024`  
+*IIITDM Jabalpur*
+
+</td>
+<td align="center" width="25%">
+
+### 🏅
+**Microsoft-AICTE**  
+Technical Excellence  
+`Certified`  
+*Edunet Foundation*
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- 📖 THE BOOK SECTION -->
+<div align="center">
+
+## 📖 Published Author
+
+<table border="0">
+<tr>
+<td align="center" width="30%">
+
+<img src="https://media.giphy.com/media/WoWm8YzFQJg28/giphy.gif" width="200" alt="book gif"/>
+
+</td>
+<td align="left" width="70%" valign="middle">
+
+### ✦ The Ideal Man
+
+> *A philosophical debut exploring what it truly means to live*  
+> *with purpose, discipline, and integrity.*
+
+| 📅 Written In | 📚 Lessons | 🧩 Parts | 🏫 During |
+|:---:|:---:|:---:|:---:|
+| **10 Months** | **9** | **72** | **B.Tech** |
+
+**An extraordinary testament to what one determined mind**  
+**can build — written entirely while pursuing a B.Tech degree.**
+
+[![Read on Pothi](https://img.shields.io/badge/📖_Read_on_Pothi.com-ffd60a?style=for-the-badge&labelColor=020b10)](https://pothi.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- 😂 MEME SECTION -->
+<div align="center">
+
+## 😂 My Daily Reality as a Dev
+
+<table border="0">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="it works meme"/>
+
+**When the code finally works** 🎉
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="220" alt="debugging meme"/>
+
+**Me debugging at 3AM** 🌙
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="ai meme"/>
+
+**When my AI model hits 99% accuracy** 🤖
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="220" alt="coffee meme"/>
+
+**Fuel for every project** ☕
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/ZVik7pIojeJ0bxJXSJ/giphy.gif" width="220" alt="deploy meme"/>
+
+**Pushing to main on Friday** 😅
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="pr meme"/>
+
+**PR review approved 🚀**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- 🔗 CONNECT SECTION -->
+<div align="center">
+
+## 🔗 Let's Connect & Build Together
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+*I love connecting with people — drop a message!*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal8859)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalmeena1311@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunal88591)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffd60a?style=for-the-badge&logo=firefox-browser&logoColor=020b10)](https://kunal88591.github.io/portfolio)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916261629737)
+
+<br>
 
 ```bash
-git clone https://github.com/Kunal88591
-cd Kunal88591
-./connect_with_me.sh
+$ git clone https://github.com/Kunal88591
+$ cd Kunal88591
+$ ./lets_build_something_legendary.sh 🚀
 ```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5bWJ0aXJ2bW1iZ2R1b2JxZ3Z0bWJpZ2V0c3VwZ2VjZ3R2dG5xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif" alt="Thank You" width="200">
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>✨ Thanks for stopping by, keep exploring and keep coding! 🚀✨</b>
-</p>
+<!-- 🌊 FOOTER WAVE -->
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,40:9b5de5,70:00ffd5,100:020b10&height=140&section=footer&text=Built%20with%20obsession%2C%20not%20templates.&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn&fontFamily=Trebuchet+MS" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7B32C&width=480&lines=Welcome+to+my+cosmos+of+code!;Open+Source+is+magic.;Let%27s+build+the+future+together." />
-</p>
+</div>
