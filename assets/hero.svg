@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#10103a"/><stop offset="1" stop-color="#071b31"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6d5dfc"/><stop offset=".5" stop-color="#23d5ff"/><stop offset="1" stop-color="#ff66c4"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#266cff" stop-opacity=".55"/><stop offset="1" stop-color="#266cff" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+<ellipse cx="900" cy="115" rx="270" ry="170" fill="url(#glow)" filter="url(#blur)"/>
+<g fill="none" stroke="#364e9b" stroke-opacity=".45">
+ <path d="M600 0V420M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420"/>
+ <path d="M600 70H1200M600 140H1200M600 210H1200M600 280H1200M600 350H1200"/>
+</g>
+<g fill="#dffaff">
+ <circle cx="680" cy="56" r="2"/><circle cx="757" cy="99" r="1.6"/><circle cx="840" cy="40" r="2"/><circle cx="1080" cy="63" r="2"/><circle cx="1140" cy="155" r="1.5"/><circle cx="1010" cy="237" r="2"/><circle cx="750" cy="310" r="1.5"/><circle cx="1120" cy="325" r="2"/>
+</g>
+<path d="M680 300 Q850 220 1030 255 T1200 220" stroke="url(#neon)" stroke-width="2" fill="none" opacity=".8"/>
+<circle cx="960" cy="183" r="110" fill="#142c62" stroke="#5a91ff" stroke-width="2"/>
+<ellipse cx="960" cy="183" rx="110" ry="35" fill="none" stroke="#56d9ff" stroke-width="2" transform="rotate(-23 960 183)"/>
+<ellipse cx="960" cy="183" rx="35" ry="110" fill="none" stroke="#56d9ff" stroke-opacity=".45" transform="rotate(35 960 183)"/>
+<path d="M850 183 Q960 120 1070 183 Q960 246 850 183Z" fill="#246ed1" opacity=".45"/>
+<text x="62" y="78" font-family="monospace" font-size="17" fill="#74e9ff" letter-spacing="4">PORTFOLIO / ENGINEERING / STORIES</text>
+<text x="58" y="166" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" fill="#fff">KUNAL <tspan fill="url(#neon)">MEENA</tspan></text>
+<text x="62" y="211" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#d5e3ff">Engineer by training. Builder by instinct.</text>
+<text x="62" y="246" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#aabce7">Full-stack • Backend • AI experiments • Plot twists</text>
+<rect x="62" y="286" width="275" height="46" rx="23" fill="#101a3e" stroke="url(#neon)" stroke-width="2"/>
+<text x="199" y="315" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#e9faff">SCROLL TO EXPLORE ↓</text>
+<text x="62" y="383" font-family="monospace" font-size="13" fill="#8297c9">IIITDM Jabalpur · ECE · Class of 2027</text>
+</svg>
